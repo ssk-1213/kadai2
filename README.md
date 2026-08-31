@@ -1,3 +1,4 @@
+#手順
 1. AがGitHub上にリモートリポジトリを用意し、`index.html`（"Hello"と記述）を`main`ブランチにPushする。 
 
 <img width="674" height="841" alt="image" src="https://github.com/user-attachments/assets/09bec774-46fd-4b80-8a10-6673b185310a" /> 
@@ -12,6 +13,8 @@
 
 4. AがBのプルリクエストをレビューし、`main`ブランチにマージする。 
 
+<img width="1906" height="947" alt="スクリーンショット 2026-08-24 135834" src="https://github.com/user-attachments/assets/c859627d-d812-43f4-8c3f-d4eb12db3b2b" />
+
 <img width="554" height="937" alt="image" src="https://github.com/user-attachments/assets/6ebceffc-757e-477a-a90f-c634dfb3ebc9" />
 
 5. Aがローカルの`main`ブランチを最新化（upatream）し、作業ブランチを作成。`index.html`を編集してPRを作成・マージする。 
@@ -24,5 +27,5 @@
 
 <img width="727" height="743" alt="スクリーンショット 2026-08-31 113743" src="https://github.com/user-attachments/assets/0f48a129-6bae-4486-8582-9591efb709da" />
 
-7. AがBのプルリクエストをレビューし、`main`ブランチにマージする。 
+7. AがBのプルリクエストをレビューし、`main`ブランチにマージする。（手順4と同じ）
 
