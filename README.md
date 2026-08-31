@@ -1,4 +1,4 @@
-#手順
+# 手順
 1. AがGitHub上にリモートリポジトリを用意し、`index.html`（"Hello"と記述）を`main`ブランチにPushする。 
 
 <img width="674" height="841" alt="image" src="https://github.com/user-attachments/assets/09bec774-46fd-4b80-8a10-6673b185310a" /> 
